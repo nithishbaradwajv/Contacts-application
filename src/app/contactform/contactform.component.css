@@ -1,0 +1,27 @@
+.contact-page{
+    padding: 100px 400px ;
+    font-family: cambria;
+    text-align: justify;
+    /* word-spacing: 5px; */
+    font-size: 12px;
+}
+
+.info{
+    font-size: 20px;
+    padding: 5px 60px;
+}
+input{
+    margin: 10px 0px;
+    padding: 5px 20px;
+}
+input.id2{
+    text-align: center;
+    background-color: #8f7af8;
+    color: rgb(14, 12, 12);
+    padding: 5px 20px;
+    margin: 0px 0px 0px 170px;
+    cursor: pointer;
+}
+.p-cursor{
+    cursor: pointer;
+}

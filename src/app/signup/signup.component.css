@@ -1,0 +1,42 @@
+.first-page{
+    padding: 100px 200px ;
+    font-family: Arial Bold;
+    text-align: center;
+    /* word-spacing: 5px; */
+    font-size: 20px;
+}
+h1{
+    padding: 0px 35px;
+    font-size: 35px;
+}
+.info{
+    font-size: 25px;
+}
+a.id3{
+    font-size: 10px;
+    color: #0fb500;
+    padding: 0px 0px 0px 65px;
+}
+a.id1{
+    text-align: center;
+    color: #b50000;
+    padding: 50px 10px;
+    /* margin: 50px 0px; */
+}
+input{
+    margin: 10px 0px;
+    padding: 5px;
+}
+input.id2{
+    text-align: center;
+    background-color: #b5007f;
+    color: white;
+    padding: 1px 75px;
+    cursor: pointer;
+}
+.p-cursor{
+    cursor: pointer;
+}
+.m{
+    font-size: 15px;
+}
