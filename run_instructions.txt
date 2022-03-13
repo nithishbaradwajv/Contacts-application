@@ -1,0 +1,14 @@
+1:need to download angular
+2:need to download node js
+3:need to download visual studio code for coding
+4-run the command for creating the new app(ng new contacts-app) in command prompt to create angular app
+5-after creating the project open the folder through visual studio code (folder locaton:- c/users/username)which you have saved in ur system.
+6-then create the different component names using the command (ng generate component component name).
+component name-signin,signup,contactsform
+7-in the component automatically it will create 4 files including html,css,typescript,spec.
+8-then write the code for both html and css file.
+9-in the app.routing.module we need to add the paths of all components which helps to redirect the page.
+10-to run the project use (ng serve) command in vs code command prompt that is the terminal.
+11-the server will create then this link will appear (http://localhost:4200/) then copy the link and
+paste it in the chrome or we can click on the terminal bar were we find this link.
+12-then we can see the web application in chrome server.
